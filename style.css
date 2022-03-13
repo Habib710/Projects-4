@@ -1,0 +1,151 @@
+.newcolor {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.bbgpic {
+    width: 100%;
+    height: auto;
+
+
+    background: linear-gradient(rgba(28, 29, 29, 0.315), rgba(34, 36, 36, 0.315));
+    background-image: url(image/header-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.voerlay {
+    height: auto;
+
+    padding-left: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.extra {
+    font-size: 72px;
+    font-weight: 700;
+}
+
+.textcolor {
+    color: #cf34eef3;
+
+}
+
+.divclas {
+    padding-top: 190px;
+
+
+}
+
+.btns {
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: white;
+    background: -webkit-linear-gradient(10deg, #5f36ff 5%, #c125ff 100%);
+}
+
+
+.btns:hover {
+    background: transparent;
+    border: 2px solid rgb(247, 245, 245);
+    transition: all .9s;
+
+}
+
+.btns-COM {
+    padding: 10px 30px;
+    border-radius: 50px;
+    font-weight: 600;
+    color: rgb(245, 242, 242);
+    background: -webkit-linear-gradient(10deg, #5f36ff 5%, #c125ff 100%);
+}
+
+.btns-COM:hover {
+    background: transparent;
+    color: black;
+    border: 2px solid rgb(0, 0, 0);
+    transition: all .9s;
+
+}
+
+.newsection {
+    margin: 110px;
+    background: -webkit-linear-gradient(10deg, #5f36ff 5%, #c125ff 100%);
+
+}
+
+.mycss {
+
+
+    min-height: 52vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.fscos {
+    font-size: 60px;
+
+}
+
+.cls1 {
+    background-image: url(image/ewn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 100%;
+
+}
+
+.cls2 {
+    background-image: url(image/mypic.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 100%;
+}
+
+.cls3 {
+    background-image: url(image/new.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 100%;
+
+
+}
+
+.hclss {
+    padding: 50px;
+}
+
+.newcss {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 500px;
+}
+
+.iconclass {
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.btnslast {
+    padding: 3px 15px;
+    border-radius: 10px;
+    background-color: #c125ff;
+    color: aliceblue;
+}
